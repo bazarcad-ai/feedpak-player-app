@@ -2,7 +2,7 @@
 
 **Open the app: https://bazarcad-ai.github.io/feedpak-player-app/**
 
-A free web app for practising with [feedpak](https://github.com/got-feedback/feedpak-spec) song packages (`.feedpak` / `.sloppak`): tab and notation that follow the music, multiple tracks side by side, loops by section, pitch-preserving slow-down, a metronome, a tab synth and a mixer.
+A free web app for practising with [feedpak](https://github.com/got-feedback/feedpak-spec) song packages (`.feedpak` / `.sloppak`): tab and notation that follow the music, multiple tracks side by side, loops by section, pitch-preserving slow-down, a metronome, a tab synth, a mixer, practice tracking with streaks, and MIDI drums: load a drum part, sync it, map it to the kit (General MIDI or Rock Band / Clone Hero charts) and save it into the song.
 
 - **Use it online:** open the link above in Chrome, Edge, Firefox or Safari. On iPhone or iPad, open it in Safari, then Share → *Add to Home Screen*.
 - **Use it offline:** download [`index.html`](index.html) and double-click it. It's a single self-contained file.
