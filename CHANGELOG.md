@@ -2,6 +2,16 @@
 
 All notable changes to Feedpak Player, newest first. Each version is published to https://bazarcad-ai.github.io/feedpak-player-app/ (also downloadable as a single `index.html`).
 
+## 0.9.0 — 2026-11-04
+
+### New
+- **Usage stats** (web version, anonymous): besides visits and unique users, the app now counts songs played and how many *different* songs are played, using an anonymous song ID, never the title. Opt out in ⚙ Settings; Do Not Track and Global Privacy Control are respected.
+- **Tuning and 🥁 badges everywhere songs are listed:** Recently played (Library row and 🕘 menu), playlists, the ＋ Add songs picker and the 🔁 Loops dialog, as well as the Library cards.
+- **What's new:** ⚙ Settings shows the version and a link to these release notes at the top. Credits and open-source licences are collapsed at the very bottom.
+
+### Fixed
+- **Google Drive stays connected after a reload.** Google's sign-in lasts about an hour; after that, one click on *Reconnect* (no password) continues, and a small note offers it when an automatic backup is due.
+
 ## 0.8.1 — 2026-11-04
 
 ### New

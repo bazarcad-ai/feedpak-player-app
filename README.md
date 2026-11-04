@@ -2,7 +2,7 @@
 
 # Feedpak Player
 
-**Version 0.8.1** · [what's new](https://github.com/bazarcad-ai/feedpak-player-app/blob/main/CHANGELOG.md)
+**Version 0.9.0** · [what's new](https://github.com/bazarcad-ai/feedpak-player-app/blob/main/CHANGELOG.md)
 
 **Open the app: https://bazarcad-ai.github.io/feedpak-player-app/**
 
@@ -11,7 +11,7 @@ A free web app for practising with [feedpak](https://github.com/got-feedback/fee
 - **Use it online:** open the link above in Chrome, Edge, Firefox or Safari. On iPhone or iPad, open it in Safari, then Share → *Add to Home Screen*.
 - **Use it offline:** download [`index.html`](index.html) and double-click it. It's a single self-contained file.
 - **Sync across computers** (optional, Chrome or Edge): ⚙ Settings → *Sync folder*, then pick a folder that Google Drive, iCloud, Dropbox or OneDrive syncs.
-- **Privacy:** songs you open stay on your device and nothing is uploaded, except an optional Google Drive backup of your settings, which you start yourself. No accounts, no tracking.
+- **Privacy:** songs you open stay on your device and nothing is uploaded, except an optional Google Drive backup of your settings, which you start yourself. No accounts and no cookies. The web version sends anonymous usage counts (visits, songs played, using an anonymous song ID, never titles); turn them off in ⚙ Settings.
 
 ## Credits
 
