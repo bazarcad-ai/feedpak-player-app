@@ -2,6 +2,11 @@
 
 All notable changes to Feedpak Player, newest first. Each version is published to https://bazarcad-ai.github.io/feedpak-player-app/ (also downloadable as a single `index.html`).
 
+## 0.9.1 — 2026-11-04
+
+### New
+- **Share song names (opt-in):** ⚙ Settings → *Also share the names of songs I play*. Off by default and per browser; when ticked, the usage counts list the songs you play by artist and title instead of an anonymous ID. Never file names.
+
 ## 0.9.0 — 2026-11-04
 
 ### New
