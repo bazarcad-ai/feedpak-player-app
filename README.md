@@ -2,7 +2,7 @@
 
 # Feedpak Player
 
-**Version 0.9.1** · [what's new](https://github.com/bazarcad-ai/feedpak-player-app/blob/main/CHANGELOG.md)
+**Version 0.9.1** · [what's new](CHANGELOG.md)
 
 **Open the app: https://bazarcad-ai.github.io/feedpak-player-app/**
 
