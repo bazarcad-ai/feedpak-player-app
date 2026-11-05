@@ -2,7 +2,7 @@
 
 # Tabloop
 
-**Version 0.15.1** · [what's new](CHANGELOG.md)
+**Version 0.15.2** · [what's new](CHANGELOG.md)
 
 **Open the app: https://bazarcad-ai.github.io/feedpak-player-app/**
 
